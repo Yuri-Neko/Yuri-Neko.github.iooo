@@ -17,7 +17,7 @@ body{
 }
 
 body.dark {
-	background-image: url('https://kyoko-api.herokuapp.com/api//random/elf?apikey=loli');
+	background-image: url('https://api-kyouka.herokuapp.com/api/wallpaper/yuki?apikey=loli');
 }
 
 body.light {
